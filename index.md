@@ -20,7 +20,7 @@ I'm Alex Kozitsky
 
 + Email: [alexander.kozitsky@gmail.com](mailto:alexander.kozitsky@gmail.com)
 + Website: [https://memorialmedia.team](https://memorialmedia.team)
-+ LinkedIn: [https://linkedin.com/causeitskey](https://linkedin.com/causeitskey)
++ LinkedIn: [https://linkedin.com/in/causeitskey/](https://linkedin.com/in/causeitskey/)
 + Github: [https://github.com/causeitskey](https://github.com/causeitskey)
 
 # Experience
@@ -29,7 +29,7 @@ I'm Alex Kozitsky
 
 ## Humanities Institute of TV&Radio Broadcasting named after M.A. Litovchin
 ### High School Diploma, Radio, Television, and Digital
-+ Communication (2010 - 2016)
+Communication (2010 - 2016)
 
 # Equipment
 
@@ -45,7 +45,7 @@ I'm Alex Kozitsky
 + 2 x Mackie HR624 mk.1 Studio Monitors
 + 2 x Fostex 6301B Monitors for "Shit-control"
 
-## Software Liceses:
+## Software Licenses and Subscriptions:
 + Adobe Creative Cloud
 + H2R Graphics
 + Mitti Video Playback
@@ -57,7 +57,7 @@ I'm Alex Kozitsky
 ## Broadcasting Gear:
 + Blackmagic ATEM Extreme ISO
 + Blackmagic ATEM Pro
-+ 3 x HDMI Ethernet Extenders   x3
++ 3 x HDMI Ethernet Extenders
 + 2 x Dell 24" Monitors
 + 2 x Stream Deck XL
 + 1 x Stream Deck Classic  mk.1
